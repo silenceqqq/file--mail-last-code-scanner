@@ -1,0 +1,2 @@
+-- to need work it u wanna create or rename mail file to accounts.txt
+-- что бы скрипт работал нужно переименовать файл с почтами и паролями в accounts.txt
